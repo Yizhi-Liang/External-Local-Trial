@@ -1,11 +1,11 @@
 # 01_External_Local_RCT
 
-Title: Leveraging External Clinical Evidence versus Awaiting Local Confirmatory Trial: A Value of Information Approach.
+Title: Using External Clinical Evidence to Inform Local Health Policy: The Trade-off Between Early Access and Uncertainty.
 
-Yizhi Liang,^1  Boshen Jiao^{1,2}
+Yizhi Liang &  Boshen Jiao
 
-^{1}Department of Pharmaceutical and Health Economics, School of Pharmacy, University of Southern California, Los Angeles, California
-^{2}The Leonard D. Schaeffer Center for Health Policy & Economics, University of Southern California, Los Angeles, California
+1 Department of Pharmaceutical and Health Economics, School of Pharmacy, University of Southern California, Los Angeles, California
+2 The Leonard D. Schaeffer Center for Health Policy & Economics, University of Southern California, Los Angeles, California
 
 Corresponding author: Boshen Jiao
 
