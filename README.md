@@ -1,6 +1,6 @@
 # 01_External_Local_RCT
 
-Title: Using External Clinical Evidence to Inform Local Health Policy: The Trade-off Between Early Access and Uncertainty.
+Title: Evaluating Policy Options for New Treatments Under Uncertain External Evidence.
 
 Yizhi Liang &  Boshen Jiao
 
