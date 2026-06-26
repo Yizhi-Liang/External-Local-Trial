@@ -1,1 +1,6 @@
-00_journal/
+00_journal/.venv/
+__pycache__/
+00_journal
+tmp_review
+.venv/
+.DS_Store
