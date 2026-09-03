@@ -5,7 +5,7 @@
 **Study type:** VOI / HTA methods paper (not an empirical RCT or RWE study).
 
 **Layout (non-standard — differs from global template):**
-- `01_data/surv_curve_data/raw/` — raw digitized survival CSVs; **read-only, never modify**
+- `01_data/surv_curve_data/digitized/` — raw digitized survival CSVs; **read-only, never modify**
 - `01_data/surv_curve_data/` — clean/fitted inputs safe to read
 - `02_code/` — all analysis (Python Jupyter notebooks)
 - `03_output/` — derived outputs (params, prices, ENBS, figures)
